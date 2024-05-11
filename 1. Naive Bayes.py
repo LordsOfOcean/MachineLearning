@@ -1,4 +1,4 @@
-//https://medium.com/analytics-vidhya/naïve-bayes-algorithm-5bf31e9032a2
+#https://medium.com/analytics-vidhya/naïve-bayes-algorithm-5bf31e9032a2
 import pandas as pd
 from collections import defaultdict
 import numpy as np
